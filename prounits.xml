@@ -1,0 +1,2339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yandexsearch version="1.0">
+<request>
+<query>
+    Профсоюз
+  </query>
+<page>0</page>
+<sortby order="descending" priority="no">rlv</sortby>
+<maxpassages>1</maxpassages>
+<groupings>
+<groupby attr="d" mode="deep" groups-on-page="100" docs-in-group="1" curcateg="-1"/>
+</groupings>
+</request>
+<response date="20221109T105424">
+<reqid>1667991263828872-11423102930600681890-vla0-7840-b36-vla-l7-balancer-8080-BAL-2852</reqid>
+<found priority="phrase">7073620</found>
+<found priority="strict">7073620</found>
+<found priority="all">7073620</found>
+<found-human>Нашлось 7 млн ответов</found-human>
+<results>
+<grouping attr="d" mode="deep" groups-on-page="100" docs-in-group="1" curcateg="-1">
+<page first="1" last="100">0</page>
+<group>
+<categ attr="d" name="nizhprof.ru"/>
+<doccount>39</doccount>
+<relevance priority="all"/>
+<doc id="Z9CDE0576F7D0CE8D">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667532288&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//www.nizhprof.ru/&amp;l10n=ru&amp;mime=html&amp;sign=e84c27bab17e9497fcd900307d1e9460&amp;keyno=0</saved-copy-url>
+<url>http://www.nizhprof.ru/</url>
+<domain>www.nizhprof.ru</domain>
+<title>НИЖЕГОРОДСКИЙ ОБЛСОВПРОФ - Главная</title>
+<modtime>20140907T093751</modtime>
+<size>613</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Нижегородский областной союз организаций <hlword>профсоюзов</hlword> «Облсовпроф».</passage>
+<passage>31 октября состоялось заседание Совета Нижегородского союза организаций <hlword>профсоюзов</hlword> «Облсовпроф».</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="wikipedia.org"/>
+<doccount>16</doccount>
+<relevance priority="all"/>
+<doc touchdown="РКН: сайт нарушает закон РФ" id="Z891D012CE3321F43">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667354624&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//ru.wikipedia.org/wiki/%25D0%259F%25D1%2580%25D0%25BE%25D1%2584%25D0%25B5%25D1%2581%25D1%2581%25D0%25B8%25D0%25BE%25D0%25BD%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B9_%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7&amp;l10n=ru&amp;mime=html&amp;sign=fd1af588231f27c38c1c7c71e704410e&amp;keyno=0</saved-copy-url>
+<url>https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7</url>
+<domain>ru.wikipedia.org</domain>
+<title>Профессиональный союз — Википедия</title>
+<headline>Профессиона́льный сою́з — добровольное общественное объединение людей, связанных общими интересами по роду их деятельности на производстве, в сфере обслуживания...</headline>
+<modtime>20070415T044951</modtime>
+<size>5498</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<TurboCgiUrl>https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7</TurboCgiUrl>
+<TurboFallback>https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7</TurboFallback>
+<TurboLink>https://yandex.ru/turbo?text=https%3A//ru.wikipedia.org/wiki/%25D0%259F%25D1%2580%25D0%25BE%25D1%2584%25D0%25B5%25D1%2581%25D1%2581%25D0%25B8%25D0%25BE%25D0%25BD%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B9_%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7</TurboLink>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fnpr.ru"/>
+<doccount>3502</doccount>
+<relevance priority="all"/>
+<doc id="Z7C923FB9C16C3124">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534848&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//fnpr.ru/&amp;l10n=ru&amp;mime=html&amp;sign=48f2d5c449b62ba2bd4409189b74d912&amp;keyno=0</saved-copy-url>
+<url>https://fnpr.ru/</url>
+<domain>fnpr.ru</domain>
+<title>Федерация Независимых <hlword>Профсоюзов</hlword> России - официальный сайт</title>
+<modtime>20110816T035902</modtime>
+<size>6174</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Межрегиональный <hlword>профсоюз</hlword> работников социальной сферы и услуг.</passage>
+<passage>Новосибирский областной союз организаций <hlword>профсоюзов</hlword> &quot;Федерация <hlword>профсоюзов</hlword> Новосибирской области&quot;.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="yandex.ru"/>
+<doccount>540</doccount>
+<relevance priority="all"/>
+<doc id="ZA2CDF359C0E10A39">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1610422656&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//yandex.ru/maps/11079/nizhny-novgorod-oblast%27/category/labor_union/184106282/&amp;l10n=ru&amp;mime=html&amp;sign=b7c9e81073d05e857923b860d914e081&amp;keyno=0</saved-copy-url>
+<url>https://yandex.ru/maps/11079/nizhny-novgorod-oblast&#39;/category/labor_union/184106282/</url>
+<domain>yandex.ru</domain>
+<title><hlword>Профсоюзы</hlword> в Нижегородской области... — Яндекс.Карты</title>
+<modtime>20200622T222142</modtime>
+<size>1100</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> в Нижегородской области с адресами, телефонами, отзывами. Карты покажут режим работы, панорамы и фото места, помогут добраться общественным транспортом...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="spravker.ru"/>
+<doccount>14</doccount>
+<relevance priority="all"/>
+<doc id="ZF9A1451ACF76D6CD">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667413120&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//novgorod.spravker.ru/profsoyuzyi/&amp;l10n=ru&amp;mime=html&amp;sign=8a4be9e3bac1bbc2d73eb7c4b81cf390&amp;keyno=0</saved-copy-url>
+<url>https://novgorod.spravker.ru/profsoyuzyi/</url>
+<domain>novgorod.spravker.ru</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword></title>
+<modtime>20150120T164519</modtime>
+<size>2309</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> с адресами, телефонами и отзывами - Spravker.ru.</passage>
+<passage><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>. В городе <hlword>Нижний</hlword> <hlword>Новгород</hlword> мы нашли 39 <hlword>профсоюзов</hlword></passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="zakonguru.com"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z86ADB8FBDA61EE01">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667522560&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//zakonguru.com/trudovoe/profsoyuz.html&amp;l10n=ru&amp;mime=html&amp;sign=2d45bd6b5d5205c04dafa731c8438f20&amp;keyno=0</saved-copy-url>
+<url>https://zakonguru.com/trudovoe/profsoyuz.html</url>
+<domain>zakonguru.com</domain>
+<title>Что такое <hlword>профсоюз</hlword> и зачем он нужен на предприятии, основные...</title>
+<headline>Для чего нужен <hlword>профсоюз</hlword>. <hlword>Профсоюз</hlword> – это общественная организация, которая объединяет работников, связанных родом деятельности и профессиональными интересами.</headline>
+<modtime>20200809T143932</modtime>
+<size>2687</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="nnovgprofgos.ru"/>
+<doccount>72</doccount>
+<relevance priority="all"/>
+<doc id="Z48E38CD9B02E6F7A">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667531136&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nnovgprofgos.ru/&amp;l10n=ru&amp;mime=html&amp;sign=1c0e4a8326573b543f63c89cedbb3763&amp;keyno=0</saved-copy-url>
+<url>https://nnovgprofgos.ru/</url>
+<domain>nnovgprofgos.ru</domain>
+<title>Главная - Нижегородская областная организация <hlword>профсоюза</hlword>...</title>
+<modtime>20111005T145325</modtime>
+<size>1310</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Нижегородская областная организация Общероссийского <hlword>профсоюза</hlword> работников государственных учреждений и общественного обслуживания Российской Федерации.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="2gis.ru"/>
+<doccount>26</doccount>
+<relevance priority="all"/>
+<doc id="ZC253747693589616">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667276288&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//2gis.ru/n_novgorod/search/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D1%258B%25D0%25B5%2520%25D0%25BE%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25B0%25D1%2586%25D0%25B8%25D0%25B8%252C%2520%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7%25D1%258B/rubricId/250&amp;l10n=ru&amp;mime=html&amp;sign=bdc8eb657936907fd88ab7f019f9643e&amp;keyno=0</saved-copy-url>
+<url>https://2gis.ru/n_novgorod/search/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%2C%20%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D1%8B/rubricId/250</url>
+<domain>2gis.ru</domain>
+<title>Общественные организации, <hlword>профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>...</title>
+<modtime>20170801T161847</modtime>
+<size>699</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>.Общественные организации, <hlword>профсоюзы</hlword>. Фильтры. Места265.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="translate.yandex.ru"/>
+<doccount>28</doccount>
+<relevance priority="all"/>
+<doc id="ZE6E5C3C1516B5CB7">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1647821056&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//translate.yandex.ru/translate%3Flang%3Den-ru%26url%3Dhttps%253A%252F%252Fen.wikipedia.org%252Fwiki%252FTrade_union%26view%3Dc&amp;l10n=ru&amp;mime=html&amp;sign=8b8f27d559cf33e708fd307b708b0183&amp;keyno=0</saved-copy-url>
+<url>https://translate.yandex.ru/translate?lang=en-ru&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTrade_union&amp;view=c</url>
+<domain>translate.yandex.ru</domain>
+<title><hlword>Профсоюз</hlword> - Википедия</title>
+<modtime>20080424T040000</modtime>
+<size>11963</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> (<hlword>профсоюз</hlword> на американском английском языке), часто просто называемый <hlword>профсоюзом</hlword>, - это организация работников, которые объединились для достижения общих...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="vc.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z6417CE252C6055EC">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667459456&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//vc.ru/legal/141534-profsoyuzy-v-sovremennoy-rossii-formalnost-ili-realnaya-zashchita&amp;l10n=ru&amp;mime=html&amp;sign=133ebad23ca1d3adefd2282dd2b6d277&amp;keyno=0</saved-copy-url>
+<url>https://vc.ru/legal/141534-profsoyuzy-v-sovremennoy-rossii-formalnost-ili-realnaya-zashchita</url>
+<domain>vc.ru</domain>
+<title><hlword>Профсоюзы</hlword> в современной России... — Право на vc.ru</title>
+<modtime>20200712T232201</modtime>
+<size>6284</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Слово «<hlword>профсоюз</hlword>» у многих ассоциируется с чем-то устаревшим и советским. Действительно, в СССР практически не было независимых <hlword>профсоюзов</hlword> — их воспринимали как структуру власти.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="vk.com"/>
+<doccount>1828</doccount>
+<relevance priority="all"/>
+<doc id="Z53C2678BFEE51B4E">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667488256&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//vk.com/club80500140&amp;l10n=ru&amp;mime=html&amp;sign=b7dddabb42641f2b3b0b4df7bb66fbb2&amp;keyno=0</saved-copy-url>
+<url>https://vk.com/club80500140</url>
+<domain>vk.com</domain>
+<title><hlword>Профсоюз</hlword> госучреждений Нижегородской области | ВКонтакте</title>
+<modtime>20160604T174141</modtime>
+<size>2344</size>
+<charset>windows-1251</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> госучреждений Нижегородской области. Нижегородская областная организация Общероссийского профессионального союза работников госучреждений и общественного...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profobr.nnov.ru"/>
+<doccount>26</doccount>
+<relevance priority="all"/>
+<doc id="Z8808616243C46040">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667483392&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//www.profobr.nnov.ru/&amp;l10n=ru&amp;mime=html&amp;sign=0481a8d32c4ab82cc6b9a9c2f3544f5c&amp;keyno=0</saved-copy-url>
+<url>http://www.profobr.nnov.ru/</url>
+<domain>www.profobr.nnov.ru</domain>
+<title>Нижегородская областная организация Професcионального союза...</title>
+<modtime>20100213T084629</modtime>
+<size>737</size>
+<charset>windows-1251</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Совместное письмо Минобрнауки России и Общероссийского <hlword>Профсоюза</hlword> образования с рекомендациями по сокращению и устранению избыточной отчётности учителей.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="habr.com"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="ZAE0476BD87283614">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667497984&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//habr.com/ru/company/getmeit/blog/660541/&amp;l10n=ru&amp;mime=html&amp;sign=5ba1732dfa8adc1faa9fe27f980d64bc&amp;keyno=0</saved-copy-url>
+<url>https://habr.com/ru/company/getmeit/blog/660541/</url>
+<domain>habr.com</domain>
+<title>Краткая история <hlword>профсоюзов</hlword>: с чего все началось и есть... / Хабр</title>
+<modtime>20220414T111556</modtime>
+<size>6774</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В статье попробуем разобраться, зачем нужны <hlword>профсоюзы</hlword>, когда они появились, как крупные компании с ними борются, и есть ли перспективы у создания <hlword>профсоюза</hlword> айтишников сейчас.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="spr.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z7E4F17DBC493BFEA">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667283840&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//pfo.spr.ru/nizhniy-novgorod/profsoyuzi/&amp;l10n=ru&amp;mime=html&amp;sign=daabf5a5e8f8657a45327870aec6d534&amp;keyno=0</saved-copy-url>
+<url>https://pfo.spr.ru/nizhniy-novgorod/profsoyuzi/</url>
+<domain>pfo.spr.ru</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>, отзывы, телефоны и адреса...</title>
+<modtime>20140629T162351</modtime>
+<size>1945</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword>: список организаций. <hlword>Нижний</hlword> <hlword>Новгород</hlword>, подробные отзывы о <hlword>профсоюзах</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="dnevnik-znaniy.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZC08FEC45E9005E5C">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667449856&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//dnevnik-znaniy.ru/gosudarstvo/profsoyuz-eto.html&amp;l10n=ru&amp;mime=html&amp;sign=e1614a06fdad876bf7b65440f1156ce9&amp;keyno=0</saved-copy-url>
+<url>https://dnevnik-znaniy.ru/gosudarstvo/profsoyuz-eto.html</url>
+<domain>dnevnik-znaniy.ru</domain>
+<title><hlword>Профсоюз</hlword>: что это простыми словами, примеры, виды, задачи</title>
+<modtime>20220111T001423</modtime>
+<size>1872</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Что такое <hlword>профсоюз</hlword>? <hlword>Профсоюз</hlword> – это общественная организация, объединяющая людей, которые связаны общей профессией или сферой деятельности.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="academic.ru"/>
+<doccount>80</doccount>
+<relevance priority="all"/>
+<doc id="ZD5BAE7AA2173126A">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666622720&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//dic.academic.ru/dic.nsf/ruwiki/1108903&amp;l10n=ru&amp;mime=html&amp;sign=976a6da3afb3a4875a4fcf1bf0c48bd1&amp;keyno=0</saved-copy-url>
+<url>https://dic.academic.ru/dic.nsf/ruwiki/1108903</url>
+<domain>dic.academic.ru</domain>
+<title><hlword>Профсоюз</hlword> | это... Что такое <hlword>Профсоюз</hlword>?</title>
+<modtime>20090909T040000</modtime>
+<size>2763</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>ПРОФСОЮЗ</hlword> — <hlword>ПРОФСОЮЗ</hlword>, <hlword>профсоюза</hlword>, муж. (неол.). Профессиональный союз. см. проф… в 1 знач. <hlword>Профсоюзы</hlword> можно назвать поголовной организацией господствующего у нас рабочего...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="kitabi.ru"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="Z309C2F8C8EADA8AE">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667510528&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nizhniy-novgorod.kitabi.ru/socialnye-organizacii/profsouzy&amp;l10n=ru&amp;mime=html&amp;sign=3209d03ed01b1f02d1af195c31111d8e&amp;keyno=0</saved-copy-url>
+<url>https://nizhniy-novgorod.kitabi.ru/socialnye-organizacii/profsouzy</url>
+<domain>nizhniy-novgorod.kitabi.ru</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>: список, адреса и телефоны...</title>
+<modtime>20160402T194240</modtime>
+<size>1186</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В разделе <hlword>Профсоюзы</hlword> <hlword>Нижнего</hlword> <hlword>Новгорода</hlword> представлен список из 18 организаций - уточните адрес, чтобы найти лучшие ближайшие <hlword>Профсоюзы</hlword> рядом с вами.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="ktonanovenkogo.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZCF9D41071D1155DF">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667206016&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//KtoNaNovenkogo.ru/voprosy-i-otvety/profsoyuz-chto-ehto-takoe.html&amp;l10n=ru&amp;mime=html&amp;sign=f84df6c25e02feb64bf7bf4ef21e74fe&amp;keyno=0</saved-copy-url>
+<url>https://KtoNaNovenkogo.ru/voprosy-i-otvety/profsoyuz-chto-ehto-takoe.html</url>
+<domain>KtoNaNovenkogo.ru</domain>
+<title><hlword>Профсоюз</hlword> — что это такое</title>
+<modtime>20181214T232826</modtime>
+<size>1603</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Есть такой термин &quot;<hlword>профсоюз</hlword>&quot; — что это такое, почему профсоюзное движение растет по всему миру и что может сделать полезного эта организация конкретно для вас.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="consultant.ru"/>
+<doccount>156</doccount>
+<relevance priority="all"/>
+<doc id="Z7CA8B04F625D2CDA">
+<relevance priority="all"/>
+<url>https://www.consultant.ru/document/cons_doc_LAW_8840/</url>
+<domain>www.consultant.ru</domain>
+<title>Федеральный закон &quot;О профессиональных союзах, их правах...&quot;</title>
+<headline>12 января 1996 года N 10-ФЗ РОССИЙСКАЯ ФЕДЕРАЦИЯ ФЕДЕРАЛЬНЫЙ ЗАКОН О ПРОФЕССИОНАЛЬНЫХ СОЮЗАХ, ИХ ПРАВАХ И ГАРАНТИЯХ ДЕЯТЕЛЬНОСТИ Принят...</headline>
+<modtime>20120408T171730</modtime>
+<size>1228</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="bankstoday.net"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZA5F429620946AD97">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667496448&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//BanksToday.net/last-articles/profsoyuzy-v-rossii-imitatsiya-raboty-ili-realnaya-zashhita-trudovyh-prav&amp;l10n=ru&amp;mime=html&amp;sign=b449f232bb0756731b8cad962c272ccc&amp;keyno=0</saved-copy-url>
+<url>https://BanksToday.net/last-articles/profsoyuzy-v-rossii-imitatsiya-raboty-ili-realnaya-zashhita-trudovyh-prav</url>
+<domain>BanksToday.net</domain>
+<title><hlword>Профсоюзы</hlword> в России: имитация работы или реальная защита...</title>
+<modtime>20190212T093832</modtime>
+<size>2791</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>3 Как сейчас работают <hlword>профсоюзы</hlword> в России.</passage>
+<passage>Профессиональный союз – <hlword>профсоюз</hlword> – представляет собой объединение людей, которые связаны между собой по роду деятельности.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="lawabc.ru"/>
+<doccount>7</doccount>
+<relevance priority="all"/>
+<doc id="Z2173D35AC85E1F61">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667531392&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//lawabc.ru/organy-nadzora-po-trudu/article/chto-takoe-profsoyuz-i-zachem-on-nuzhen-na-predpriyatii/&amp;l10n=ru&amp;mime=html&amp;sign=2d10f7d560cee5558062b7e049b24a5b&amp;keyno=0</saved-copy-url>
+<url>https://lawabc.ru/organy-nadzora-po-trudu/article/chto-takoe-profsoyuz-i-zachem-on-nuzhen-na-predpriyatii/</url>
+<domain>lawabc.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword> и зачем он нужен на предприятии?</title>
+<modtime>20220619T080140</modtime>
+<size>3027</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Что такое <hlword>профсоюз</hlword>? <hlword>Профсоюз</hlword> — это объединение работников, созданное с целью защиты своих прав и продвижения интересов, путем коллективных переговоров с работодателем.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="nnprz.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="Z6E890E9329ADFE1D">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;la=1666957696&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nnprz.ru/&amp;l10n=ru&amp;mime=html&amp;sign=8adc54f6ac39e19026d5731d04b717c6&amp;keyno=0</saved-copy-url>
+<url>https://nnprz.ru/</url>
+<domain>nnprz.ru</domain>
+<title>nnprz.ru</title>
+<modtime>20130218T010627</modtime>
+<size>29</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>указ – <hlword>Профсоюз</hlword> работников здравоохранения.</passage>
+</passages>
+<properties>
+<_PassagesType>1</_PassagesType>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="jsprav.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="Z5711EB4AD3C35C0B">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667493376&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nizhnij-novgorod.jsprav.ru/profsoyuzyi/&amp;l10n=ru&amp;mime=html&amp;sign=cd42934cd268c719fff8fd183ef0abaa&amp;keyno=0</saved-copy-url>
+<url>https://nizhnij-novgorod.jsprav.ru/profsoyuzyi/</url>
+<domain>nizhnij-novgorod.jsprav.ru</domain>
+<title>ТОП-40: <hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> - адреса, телефоны...</title>
+<headline><hlword>Профсоюзы</hlword>: 35 организаций в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword>. Лучшие места с рейтингом, реальными отзывами, телефонами и адресами на карте. Смотрите на jSprav.ru.</headline>
+<modtime>20160707T194157</modtime>
+<size>2172</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="yp.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z117A9647385901DA">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666000384&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nnovgorod.YP.ru/list/professionalnye_soyuzy_i_assotsiatsii/&amp;l10n=ru&amp;mime=html&amp;sign=ff7118e0e3fe419323544fcade3aaa49&amp;keyno=0</saved-copy-url>
+<url>https://nnovgorod.YP.ru/list/professionalnye_soyuzy_i_assotsiatsii/</url>
+<domain>nnovgorod.YP.ru</domain>
+<title>Профессиональные союзы и ассоциации <hlword>Нижнего</hlword> <hlword>Новгорода</hlword></title>
+<headline>Список профессиональных союзов и ассоциаций <hlword>Нижнего</hlword> <hlword>Новгорода</hlword> с телефонами, адресами со схемой проезда на карте города, графиком работы.</headline>
+<modtime>20170117T124940</modtime>
+<size>1590</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="klerk.ru"/>
+<doccount>5</doccount>
+<relevance priority="all"/>
+<doc id="ZF0ECA716C925EDCD">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667378176&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.klerk.ru/buh/articles/533127/&amp;l10n=ru&amp;mime=html&amp;sign=5aa56ba251146af0532c11bca443ed55&amp;keyno=0</saved-copy-url>
+<url>https://www.klerk.ru/buh/articles/533127/</url>
+<domain>www.klerk.ru</domain>
+<title>Зачем вступать в <hlword>профсоюз</hlword> и кому он нужен</title>
+<modtime>20220810T135043</modtime>
+<size>2022</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В ст. 11 закона «О <hlword>профсоюзах</hlword>» закреплено право <hlword>профсоюза</hlword> утверждать систему оплаты труда на предприятии, а также формы материального поощрения и размеры тарифных ставок.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="ruspravochnik.com"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="ZD65E3BD724A276D9">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1665511168&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nn.ruspravochnik.com/obschestvo/profsouz&amp;l10n=ru&amp;mime=html&amp;sign=1e914b8d235b70f4f7a949a8ed50ed16&amp;keyno=0</saved-copy-url>
+<url>https://nn.ruspravochnik.com/obschestvo/profsouz</url>
+<domain>nn.ruspravochnik.com</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> - адреса и телефоны, список...</title>
+<modtime>20181012T224720</modtime>
+<size>1506</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> <hlword>Нижнего</hlword> <hlword>Новгорода</hlword> - актуальный список и адреса на карте.</passage>
+<passage>Нижегородский областной совет председателей горно-металлургического <hlword>профсоюза</hlword> России.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="guiderf.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z2700A5806B2306A1">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667414400&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//Nizhniy-Novgorod.GuideRF.ru/profsoyuzy.html&amp;l10n=ru&amp;mime=html&amp;sign=a4d093441c38ec9dda855ab18a5c354f&amp;keyno=0</saved-copy-url>
+<url>http://Nizhniy-Novgorod.GuideRF.ru/profsoyuzy.html</url>
+<domain>Nizhniy-Novgorod.GuideRF.ru</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> (телефоны и адреса 64...)</title>
+<modtime>20160505T071208</modtime>
+<size>2198</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Категория <hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> на ГИД РФ содержит адреса, отзывы, карты и контактную информацию о 64 компаниях.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="garant.ru"/>
+<doccount>35</doccount>
+<relevance priority="all"/>
+<doc id="Z07932C4F3B4BF702">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667521536&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//base.garant.ru/10105872/&amp;l10n=ru&amp;mime=html&amp;sign=eb645c57d3e7515ea0b19cafd18e3397&amp;keyno=0</saved-copy-url>
+<url>https://base.garant.ru/10105872/</url>
+<domain>base.garant.ru</domain>
+<title>Федеральный закон от 12.01.1996 N 10-ФЗ... | ГАРАНТ</title>
+<modtime>20100608T070455</modtime>
+<size>2221</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> - это добровольное общественное объединение граждан, связанных общими производственными, профессиональными интересами по роду их деятельности, создаваемое в...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="kontur.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZA14E9D33CF5D44BC">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667474304&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//normativ.kontur.ru/document%3FmoduleId%3D1%26documentId%3D412659&amp;l10n=ru&amp;mime=html&amp;sign=9bce51896d38d9c235cc6e3ddb4918ea&amp;keyno=0</saved-copy-url>
+<url>https://normativ.kontur.ru/document?moduleId=1&amp;documentId=412659</url>
+<domain>normativ.kontur.ru</domain>
+<title>Федеральный закон от 12.01.96 N 10-ФЗ... — Контур.Норматив</title>
+<modtime>20220126T185545</modtime>
+<size>8099</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Право <hlword>профсоюзов</hlword> на представительство и защиту социально-трудовых прав и интересов работников. Статья 12. Право <hlword>профсоюзов</hlword> на содействие занятости.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="studopedia.ru"/>
+<doccount>90</doccount>
+<relevance priority="all"/>
+<doc id="Z41EE2FBEA9DEC92F">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667528064&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//studopedia.ru/23_29178_profsoyuzi-ponyatiya-osnovnie-prava-i-funktsii.html&amp;l10n=ru&amp;mime=html&amp;sign=7a29afa7c44deb37e4fc7dd355cc49b3&amp;keyno=0</saved-copy-url>
+<url>https://studopedia.ru/23_29178_profsoyuzi-ponyatiya-osnovnie-prava-i-funktsii.html</url>
+<domain>studopedia.ru</domain>
+<title><hlword>Профсоюзы</hlword>: понятия, основные права и функции — Студопедия</title>
+<modtime>20200526T144256</modtime>
+<size>1682</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Основные задачи <hlword>профсоюзов</hlword> связаны с осуществлением их функций -защиты прав и интересов работников в сфере труда и иных, непосредственно связанных с ним отношений.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="secretmag.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z544C266331E1A1FB">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667445248&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//secretmag.ru/enciklopediya/chto-takoe-profsoyuz-obyasnyaem-prostymi-slovami.htm&amp;l10n=ru&amp;mime=html&amp;sign=fc2bd33b0c2b35a7897cabfee839de52&amp;keyno=0</saved-copy-url>
+<url>https://secretmag.ru/enciklopediya/chto-takoe-profsoyuz-obyasnyaem-prostymi-slovami.htm</url>
+<domain>secretmag.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword>. Объясняем простыми словами</title>
+<modtime>20211115T220509</modtime>
+<size>1040</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> превращаются в активистские группы и включаются в любой социальный конфликт. Условно это становится не отраслевой <hlword>профсоюз</hlword>, а <hlword>профсоюз</hlword> классовой взаимопомощи».</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rabota.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z5BA811212F1101FC">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667440000&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//prosto.rabota.ru/post/profsoyuzy/&amp;l10n=ru&amp;mime=html&amp;sign=78a81f38e43a3dc4e52ac47b681a7b9f&amp;keyno=0</saved-copy-url>
+<url>https://prosto.rabota.ru/post/profsoyuzy/</url>
+<domain>prosto.rabota.ru</domain>
+<title><hlword>Профсоюзы</hlword>: что это такое и какие преимущества они дают</title>
+<modtime>20200713T184653</modtime>
+<size>1610</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Официально <hlword>профсоюзы</hlword> не принадлежат политическим партиям и любым органам государственной власти. <hlword>Профсоюзы</hlword>: 1. Защищают трудовые права членов <hlword>профсоюза</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="krugosvet.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZB95D57BE2BEA984E">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667461376&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.krugosvet.ru/enc/gumanitarnye_nauki/sociologiya/PROFSOYUZI.html&amp;l10n=ru&amp;mime=html&amp;sign=7dbb8913950f243997c3c4f2428a1ea5&amp;keyno=0</saved-copy-url>
+<url>https://www.krugosvet.ru/enc/gumanitarnye_nauki/sociologiya/PROFSOYUZI.html</url>
+<domain>www.krugosvet.ru</domain>
+<title><hlword>ПРОФСОЮЗЫ</hlword> | Энциклопедия Кругосвет</title>
+<modtime>20090331T210805</modtime>
+<size>5944</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>ПРОФСОЮЗЫ</hlword> (Trade unions) – добровольные профессиональные объединения трудящихся, созданные с целью защиты экономических интересов работников (прежде всего, улучшения...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="businessman.ru"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z9071F58638330C84">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667407616&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//BusinessMan.ru/chto-takoe-profsoyuz-i-zachem-on-nujen-profsoyuznyiy-bilet-chem-zanimaetsya-predsedatel-profsoyuza.html&amp;l10n=ru&amp;mime=html&amp;sign=bd39f671931ffc9c95de658d8a117f23&amp;keyno=0</saved-copy-url>
+<url>https://BusinessMan.ru/chto-takoe-profsoyuz-i-zachem-on-nujen-profsoyuznyiy-bilet-chem-zanimaetsya-predsedatel-profsoyuza.html</url>
+<domain>BusinessMan.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword> и зачем он нужен? Профсоюзный билет.</title>
+<modtime>20170817T200955</modtime>
+<size>2200</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Многие люди сталкиваются с данным термином в своей жизни, но немногие понимают, что такое <hlword>профсоюз</hlword>, и зачем он нужен. Давайте попробуем разобраться в этом вопросе и понять, как...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<TurboCgiUrl>https://businessman.ru/chto-takoe-profsoyuz-i-zachem-on-nujen-profsoyuznyiy-bilet-chem-zanimaetsya-predsedatel-profsoyuza.html</TurboCgiUrl>
+<TurboFallback>https://businessman.ru/chto-takoe-profsoyuz-i-zachem-on-nujen-profsoyuznyiy-bilet-chem-zanimaetsya-predsedatel-profsoyuza.html</TurboFallback>
+<TurboLink>https://yandex.ru/turbo?text=https%3A//businessman.ru/chto-takoe-profsoyuz-i-zachem-on-nujen-profsoyuznyiy-bilet-chem-zanimaetsya-predsedatel-profsoyuza.html</TurboLink>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="toursport.pro"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="Z5E73B7EB8E657B91">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667521280&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//toursport.pro/chto-takoe-profsojuz/&amp;l10n=ru&amp;mime=html&amp;sign=88f548c77d6afc16f2773919cc9ba9ed&amp;keyno=0</saved-copy-url>
+<url>https://toursport.pro/chto-takoe-profsojuz/</url>
+<domain>toursport.pro</domain>
+<title>Что такое <hlword>профсоюз</hlword> и чем он занимается? | Моспрофспорттур</title>
+<modtime>20180205T165013</modtime>
+<size>1997</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Что такое <hlword>профсоюз</hlword> и зачем он нужен? Профсоюзная организация представляет собой объединение сотрудников того или иного предприятия, которые имеют общие интересы.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="odiplom.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZE9838602813274B3">
+<relevance priority="all"/>
+<url>https://odiplom.ru/lab/rol-profsoyuzov.html</url>
+<domain>odiplom.ru</domain>
+<title>Принципы, цели и роль <hlword>профсоюзов</hlword> в современной модели...</title>
+<modtime>20180725T021622</modtime>
+<size>2441</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Сущность <hlword>профсоюзов</hlword> описывают различные экономические модели. В настоящее время, наиболее актуальной является модель, в рамках которой <hlword>профсоюзы</hlword> рассматриваются в...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="eseur.ru"/>
+<doccount>505</doccount>
+<relevance priority="all"/>
+<doc id="Z584504A79F188AD1">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667532928&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//lk.eseur.ru/&amp;l10n=ru&amp;mime=html&amp;sign=e99612e973b1296a038c1e2fe7fc44de&amp;keyno=0</saved-copy-url>
+<url>https://lk.eseur.ru/</url>
+<domain>lk.eseur.ru</domain>
+<title>Войти в личный кабинет члена <hlword>Профсоюза</hlword></title>
+<modtime>20180905T092102</modtime>
+<size>204</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Общероссийский <hlword>Профсоюз</hlword> образования. Профессиональный союз работников народного образования и науки Российской Федерации.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="e-xecutive.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZF065E1C6CE67376D">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667528832&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.e-xecutive.ru/wiki/index.php/%25D0%259F%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7&amp;l10n=ru&amp;mime=html&amp;sign=f9f4595b2c694366b24eb33b0c01c31b&amp;keyno=0</saved-copy-url>
+<url>https://www.e-xecutive.ru/wiki/index.php/%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7</url>
+<domain>www.e-xecutive.ru</domain>
+<title><hlword>Профсоюз</hlword> — e-xecutive.ru</title>
+<headline><hlword>Профсоюз</hlword> - это добровольная общественная организация, которая объединяет работающих людей, связанных по роду деятельности в производственной или непроизводственной сфере. Цель <hlword>профсоюзов</hlword> - защита трудовых, социальных...</headline>
+<modtime>20120406T175214</modtime>
+<size>1006</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="solidarnost.org"/>
+<doccount>108</doccount>
+<relevance priority="all"/>
+<doc id="Z4A9101FF1CA54026">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667500672&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.solidarnost.org/special/profdict/Profsoyuz_Professional_nyy_soyuz.html&amp;l10n=ru&amp;mime=html&amp;sign=c6680dd34d61600677619c51aa9e88c9&amp;keyno=0</saved-copy-url>
+<url>https://www.solidarnost.org/special/profdict/Profsoyuz_Professional_nyy_soyuz.html</url>
+<domain>www.solidarnost.org</domain>
+<title><hlword>Профсоюз</hlword> (Профессиональный союз)</title>
+<modtime>20130731T040626</modtime>
+<size>3131</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Если смотреть с точки зрения сурового языка юриспруденции, профессиональный союз (<hlword>профсоюз</hlword>) - это объединение работников на добровольной основе, связанных друг с другом...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fin61.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z9C882AF15D775C35">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666594816&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//fin61.ru/profsouz/&amp;l10n=ru&amp;mime=html&amp;sign=51d4f367f6d86cbf39062459f1df5ba7&amp;keyno=0</saved-copy-url>
+<url>https://fin61.ru/profsouz/</url>
+<domain>fin61.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword> и чем он занимается?</title>
+<modtime>20210613T170541</modtime>
+<size>4547</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Вот поэтому и нужен <hlword>профсоюз</hlword>. И он нужен как сильная общественная организация, объединяющая в своем составе как можно большее количество людей.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="ria.ru"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z5C03233234977CF7">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667387776&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//ria.ru/20090728/178907493.html&amp;l10n=ru&amp;mime=html&amp;sign=80897c8ada11eaba8bc68d8f5c150276&amp;keyno=0</saved-copy-url>
+<url>https://ria.ru/20090728/178907493.html</url>
+<domain>ria.ru</domain>
+<title>Профессиональные союзы в России. Справка - РИА Новости...</title>
+<modtime>20090728T040000</modtime>
+<size>3135</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Образована в 1990 году. Объединяет 41 общероссийский <hlword>профсоюз</hlword> на правах членских организаций и 6 <hlword>профсоюзов</hlword>, строящих свои взаимоотношения с ФНПР на основе договоров.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="minjust.gov.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z225B3CF5DFAE4323">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667281408&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//minjust.gov.ru/ru/documents/7732/&amp;l10n=ru&amp;mime=html&amp;sign=57ccd42c500e8af416c03775ca7a6ab7&amp;keyno=0</saved-copy-url>
+<url>https://minjust.gov.ru/ru/documents/7732/</url>
+<domain>minjust.gov.ru</domain>
+<title>Особенности создания и деятельности <hlword>профсоюзов</hlword></title>
+<modtime>20200824T015933</modtime>
+<size>1533</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>межрегиональный <hlword>профсоюз</hlword> - добровольное объединение членов <hlword>профсоюза</hlword> - работников одной или нескольких отраслей, одного или нескольких видов экономической деятельности...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="modulbank.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z48826E8E46DE2C28">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667246464&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//delo.modulbank.ru/all/unionists&amp;l10n=ru&amp;mime=html&amp;sign=5dd734d53d4e46fd368d74141ade0e7b&amp;keyno=0</saved-copy-url>
+<url>https://delo.modulbank.ru/all/unionists</url>
+<domain>delo.modulbank.ru</domain>
+<title>Зачем нужны <hlword>профсоюзы</hlword> в 2020 году... — Дело Модульбанка</title>
+<modtime>20201130T180330</modtime>
+<size>2077</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В России первые <hlword>профсоюзы</hlword> появились в начале 20 века. В СССР на каждом предприятии работала профсоюзная организация, у <hlword>профсоюзов</hlword> были свои детские лагеря, санатории...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="glavkniga.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZD01694CD70F9C9BD">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667514880&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//glavkniga.ru/situations/s514184&amp;l10n=ru&amp;mime=html&amp;sign=716c82dd05092d8086c86efe654dbea1&amp;keyno=0</saved-copy-url>
+<url>https://glavkniga.ru/situations/s514184</url>
+<domain>glavkniga.ru</domain>
+<title><hlword>Профсоюз</hlword> | Главная книга</title>
+<modtime>20220324T115846</modtime>
+<size>2139</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Общероссийский <hlword>профсоюз</hlword>. Это объединение работников одной или нескольких отраслей или работников, ведущих один или несколько видов экономической деятельности (автомобильный...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="pravo.gov.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="ZE602ABD69E1C58A1">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667417856&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//pravo.gov.ru/proxy/ips/%3Fdoc_itself%3D%26nd%3D102039060%26page%3D1%26rdk%3D19%26link_id%3D13&amp;l10n=ru&amp;mime=html&amp;sign=51b1e7da07bf9baac3bc7c12c969052a&amp;keyno=0</saved-copy-url>
+<url>http://pravo.gov.ru/proxy/ips/?doc_itself=&amp;nd=102039060&amp;page=1&amp;rdk=19&amp;link_id=13</url>
+<domain>pravo.gov.ru</domain>
+<title>О профессиональных союзах, их правах и гарантиях деятельности</title>
+<modtime>20210121T015830</modtime>
+<size>7020</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>1. <hlword>Профсоюз</hlword> - добровольное общественное объединение граждан, связанных общими производственными, профессиональными интересами по роду их деятельности, создаваемое в...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="zen.yandex.ru"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z033B4AD48FEEC6A0">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1662669824&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//zen.yandex.ru/media/mytime/pochemu-profsoiuzy-v-rossii-takie-5dc456ff5eb26800ad460297&amp;l10n=ru&amp;mime=html&amp;sign=c2895e1adb60ca8c1b58913a768c64e5&amp;keyno=0</saved-copy-url>
+<url>https://zen.yandex.ru/media/mytime/pochemu-profsoiuzy-v-rossii-takie-5dc456ff5eb26800ad460297</url>
+<domain>zen.yandex.ru</domain>
+<title>ПОЧЕМУ <hlword>ПРОФСОЮЗЫ</hlword> В РОССИИ ТАКИЕ? | Моё время | Дзен</title>
+<modtime>20191107T213856</modtime>
+<size>1945</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Какие <hlword>профсоюзы</hlword> в России сегодня? Многие читатели, наверняка, являются членами <hlword>профсоюза</hlword> и отчисляют добровольно 1 процент от зарплаты в профсоюзный общак.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="assistentus.ru"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="ZB9A93FB73CB70E03">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667486976&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//assistentus.ru/sotrudniki/profsoyuz-v-kompanii/&amp;l10n=ru&amp;mime=html&amp;sign=e55d293e4b9f0e42ae45544e1abb85c9&amp;keyno=0</saved-copy-url>
+<url>https://assistentus.ru/sotrudniki/profsoyuz-v-kompanii/</url>
+<domain>assistentus.ru</domain>
+<title>Как создать <hlword>профсоюз</hlword> работников в организации</title>
+<modtime>20170727T231751</modtime>
+<size>2343</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Коротко обоснуем значение <hlword>профсоюзов</hlword> и их роль в организации, а также расскажем, как действовать, если <hlword>профсоюза</hlword> на предприятии пока еще нет.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="businessnnov.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZC89AFBC8E5BEDBF6">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667169024&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//businessnnov.ru/guide/kak-razvit-svoy-biznes/kak-gramotno-upravlyat-predpriyatiem/chto-takoe-profsoyuz/&amp;l10n=ru&amp;mime=html&amp;sign=f7155c5c63f37bb73b779904b76f1ded&amp;keyno=0</saved-copy-url>
+<url>https://businessnnov.ru/guide/kak-razvit-svoy-biznes/kak-gramotno-upravlyat-predpriyatiem/chto-takoe-profsoyuz/</url>
+<domain>businessnnov.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword>?</title>
+<modtime>20160320T195330</modtime>
+<size>1464</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> – это добровольное объединение граждан. Создавать <hlword>профсоюзы</hlword> могут граждане, достигшие 14–летнего возраста и осуществляющие трудовую деятельность.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="kartaslov.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="ZC094170879866747">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667307520&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//kartaslov.ru/%25D0%25B7%25D0%25BD%25D0%25B0%25D1%2587%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5-%25D1%2581%25D0%25BB%25D0%25BE%25D0%25B2%25D0%25B0/%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7&amp;l10n=ru&amp;mime=html&amp;sign=3e5782342a39c584c411ed10e3eb64d1&amp;keyno=0</saved-copy-url>
+<url>https://kartaslov.ru/%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7</url>
+<domain>kartaslov.ru</domain>
+<title>Значение слова <hlword>ПРОФСОЮЗ</hlword>. Что такое <hlword>ПРОФСОЮЗ</hlword>?</title>
+<headline><hlword>ПРОФСОЮЗ</hlword>, -а, м. Профессиональный союз. Будучи школой коммунизма вообще, <hlword>профсоюзы</hlword> должны быть, в частности, школой управления социалистической промышленностью (а затем...</headline>
+<modtime>20170514T231057</modtime>
+<size>1393</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="bigenc.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z909C8443C4D8C7F1">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667225856&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//bigenc.ru/domestic_history/text/3169847&amp;l10n=ru&amp;mime=html&amp;sign=8bdb635bca2ffeed8a49c660f9b86117&amp;keyno=0</saved-copy-url>
+<url>https://bigenc.ru/domestic_history/text/3169847</url>
+<domain>bigenc.ru</domain>
+<title>ПРОФЕССИОНАЛЬНЫЕ СОЮЗЫ • Большая российская...</title>
+<modtime>20170805T025244</modtime>
+<size>2585</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Согласно разъяснениям Сената (1907), <hlword>профсоюзы</hlword> также не имели права проводить публичные собрания с участием лиц, не принадлежавших к <hlword>профсоюзам</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="dzen.ru"/>
+<doccount>26</doccount>
+<relevance priority="all"/>
+<doc id="ZF437802F4BF42D28">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667308928&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//dzen.ru/media/mytime/pochemu-profsoiuzy-v-rossii-takie-5dc456ff5eb26800ad460297&amp;l10n=ru&amp;mime=html&amp;sign=b0d0cc556c47c5cd43999d4603f22857&amp;keyno=0</saved-copy-url>
+<url>https://dzen.ru/media/mytime/pochemu-profsoiuzy-v-rossii-takie-5dc456ff5eb26800ad460297</url>
+<domain>dzen.ru</domain>
+<title>ПОЧЕМУ <hlword>ПРОФСОЮЗЫ</hlword> В РОССИИ ТАКИЕ? | Моё время | Дзен</title>
+<modtime>20191107T213856</modtime>
+<size>1940</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Какие <hlword>профсоюзы</hlword> в России сегодня? Многие читатели, наверняка, являются членами <hlword>профсоюза</hlword> и отчисляют добровольно 1 процент от зарплаты в профсоюзный общак.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="buhguru.com"/>
+<doccount>19</doccount>
+<relevance priority="all"/>
+<doc id="Z5382DF51F39FC522">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667415040&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//buhguru.com/kadrovaya-rabota/chto-takoe-profsoyuz-ponyatie-zadachi.html&amp;l10n=ru&amp;mime=html&amp;sign=72d94bbdbc931b969e7cc82df57237cd&amp;keyno=0</saved-copy-url>
+<url>https://buhguru.com/kadrovaya-rabota/chto-takoe-profsoyuz-ponyatie-zadachi.html</url>
+<domain>buhguru.com</domain>
+<title><hlword>Профсоюз</hlword>: суть и понятие, цели, задачи, уровни, структура</title>
+<modtime>20210506T155134</modtime>
+<size>1514</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Что такое профессиональный союз работников: суть трудового <hlword>профсоюза</hlword>, понятие и определение по ТК РФ. Задачи и цели, функции на предприятии.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="placesrf.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z459AF1492EE3EC29">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667421184&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//PlacesRF.ru/nizhniy_novgorod/profsoyuzy&amp;l10n=ru&amp;mime=html&amp;sign=508ed2eda2af16397f45bcc32ab0195d&amp;keyno=0</saved-copy-url>
+<url>https://PlacesRF.ru/nizhniy_novgorod/profsoyuzy</url>
+<domain>PlacesRF.ru</domain>
+<title><hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> — 59 компаний</title>
+<modtime>20160809T015854</modtime>
+<size>1595</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Всего в разделе <hlword>Профсоюзы</hlword> в <hlword>Нижнем</hlword> <hlword>Новгороде</hlword> 59 организаций. Пока в разделе не так много отзывов.</passage>
+<passage>В категории «<hlword>Профсоюзы</hlword>» найдено 59 мест и организаций.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="kdelo.ru"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z737F9FCBDFA7AC6E">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667471488&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.kdelo.ru/art/385723-kak-sozdat-profsoyuz-20-m1&amp;l10n=ru&amp;mime=html&amp;sign=0bb44f936317a50c0e453b834c6e39bb&amp;keyno=0</saved-copy-url>
+<url>https://www.kdelo.ru/art/385723-kak-sozdat-profsoyuz-20-m1</url>
+<domain>www.kdelo.ru</domain>
+<title>Как создать <hlword>профсоюз</hlword></title>
+<modtime>20200116T000731</modtime>
+<size>2473</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В статье</passage>
+<passage>Общие и локальные документы, регламентирующие деятельность ППО</passage>
+<passage>Как учредить <hlword>профсоюз</hlword> на предприятии: два подробных алгоритма</passage>
+<passage><hlword>Профсоюз</hlword> — добровольное объединение работников, созданное для защиты их...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="isfic.info"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z08951F2D6D5BF0AD">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666326272&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//isfic.info/profom/soctrud18.htm&amp;l10n=ru&amp;mime=html&amp;sign=011db76faea82d047c943e80a1138681&amp;keyno=0</saved-copy-url>
+<url>https://isfic.info/profom/soctrud18.htm</url>
+<domain>isfic.info</domain>
+<title>Классификация профсоюзных организаций и принципы их...</title>
+<modtime>20160503T114107</modtime>
+<size>2141</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Кроме того, могут создаваться территориальные объединения организаций <hlword>профсоюзов</hlword>, формирующиеся по территориальному признаку (областное, городское и пр.).</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="unn.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="ZBB7B93159EEFFE06">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666594688&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//www.unn.ru/site/about/zhizn-v-universitete/studencheskaya-zhizn/profkom-studentov/profkom-sotrudnikov&amp;l10n=ru&amp;mime=html&amp;sign=99f4349ada7f74657b655fbc12909fad&amp;keyno=0</saved-copy-url>
+<url>http://www.unn.ru/site/about/zhizn-v-universitete/studencheskaya-zhizn/profkom-studentov/profkom-sotrudnikov</url>
+<domain>www.unn.ru</domain>
+<title>Профсоюзная организация сотрудников - Университет Лобачевского</title>
+<modtime>20190409T053505</modtime>
+<size>3042</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>На сегодняшний день Общероссийский <hlword>Профсоюз</hlword> образования – это авторитетная организация, объединяющая в своих рядах более 4,5 млн. человек.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="plusiminusi.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z63B11D5C5EB93BF9">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667532032&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//plusiminusi.ru/vstuplenie-v-profsoyuz-plyusy-i-minusy/&amp;l10n=ru&amp;mime=html&amp;sign=7d58e260a1d04df200dc65d2891c1517&amp;keyno=0</saved-copy-url>
+<url>https://plusiminusi.ru/vstuplenie-v-profsoyuz-plyusy-i-minusy/</url>
+<domain>plusiminusi.ru</domain>
+<title>Стоит ли вступать в <hlword>профсоюз</hlword>: плюсы и минусы | Плюсы и минусы</title>
+<modtime>20190418T135518</modtime>
+<size>1587</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Профессиональный союз (<hlword>профсоюз</hlword>) — добровольное объединение работников определенного предприятия для защиты своих прав и интересов.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="const-rf.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z081F3B4317B2B8A6">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666960256&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//const-rf.ru/faq/profsoyuzy.html&amp;l10n=ru&amp;mime=html&amp;sign=67dba496219dc8d6f4b26fc9e7a08102&amp;keyno=0</saved-copy-url>
+<url>https://const-rf.ru/faq/profsoyuzy.html</url>
+<domain>const-rf.ru</domain>
+<title>Деятельность <hlword>профсоюзов</hlword>: особенности, как организована...</title>
+<modtime>20210120T135310</modtime>
+<size>1736</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В России <hlword>профсоюзы</hlword> создаются добровольно, причем каждый человек во время трудоустройства может сразу написать заявление о вступлении в данное объединение.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="pikabu.ru"/>
+<doccount>8</doccount>
+<relevance priority="all"/>
+<doc id="Z48685AA8CD3C310C">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667447680&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//pikabu.ru/story/kak_sozdat_nezavisimyiy_profsoyuz_i_ne_nadelat_oshibok_6930620&amp;l10n=ru&amp;mime=html&amp;sign=efd568e6ef0ad57f952eca57a8810a5a&amp;keyno=0</saved-copy-url>
+<url>https://pikabu.ru/story/kak_sozdat_nezavisimyiy_profsoyuz_i_ne_nadelat_oshibok_6930620</url>
+<domain>pikabu.ru</domain>
+<title>Как создать независимый <hlword>профсоюз</hlword> и не наделать... | Пикабу</title>
+<modtime>20190915T081410</modtime>
+<size>2015</size>
+<charset>windows-1251</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Очень важно всегда помнить: <hlword>профсоюз</hlword> не защищает работников, <hlword>профсоюз</hlword> - это сами работники, которые объединяются для коллективного отстаивания своих прав и интересов.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fb.ru"/>
+<doccount>18</doccount>
+<relevance priority="all"/>
+<doc id="ZCDD5C4B269B1A5E7">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667262336&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//FB.ru/article/166471/profsoyuz---eto-chto-profsoyuzyi-rossii-zakon-o-professionalnyih-soyuzah&amp;l10n=ru&amp;mime=html&amp;sign=08c0889257f9b81a1ca7363bde3e5d1d&amp;keyno=0</saved-copy-url>
+<url>https://FB.ru/article/166471/profsoyuz---eto-chto-profsoyuzyi-rossii-zakon-o-professionalnyih-soyuzah</url>
+<domain>FB.ru</domain>
+<title><hlword>Профсоюз</hlword> - это что? <hlword>Профсоюзы</hlword> России.</title>
+<modtime>20150127T010843</modtime>
+<size>4072</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>На сегодняшний день <hlword>профсоюз</hlword> - это единственная организация, призванная в полной мере представлять и защищать права и интересы сотрудников предприятий.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<TurboCgiUrl>https://fb.ru/article/166471/profsoyuz---eto-chto-profsoyuzyi-rossii-zakon-o-professionalnyih-soyuzah</TurboCgiUrl>
+<TurboFallback>https://fb.ru/article/166471/profsoyuz---eto-chto-profsoyuzyi-rossii-zakon-o-professionalnyih-soyuzah</TurboFallback>
+<TurboLink>https://yandex.ru/turbo?text=https%3A//fb.ru/article/166471/profsoyuz---eto-chto-profsoyuzyi-rossii-zakon-o-professionalnyih-soyuzah</TurboLink>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="mel.fm"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z0627D632AB231F17">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667508096&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//mel.fm/ucheba/uchitelya/1459630-initsiativu-mozhet-proyavit-lyuboy-kak-rabotayut-pedagogicheskiye-profsoyuzy-v-rossii&amp;l10n=ru&amp;mime=html&amp;sign=e5fc1e725ff13de5f0c63bcf4283c136&amp;keyno=0</saved-copy-url>
+<url>https://mel.fm/ucheba/uchitelya/1459630-initsiativu-mozhet-proyavit-lyuboy-kak-rabotayut-pedagogicheskiye-profsoyuzy-v-rossii</url>
+<domain>mel.fm</domain>
+<title><hlword>Профсоюзы</hlword> учителей в России: чем они занимаются и как в них...</title>
+<modtime>20220210T201312</modtime>
+<size>3619</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Но в России уже есть три педагогических <hlword>профсоюза</hlword>, созданных с целью защиты прав педагогов. Рассказываем, чем они занимаются и как в них можно вступить. Что такое <hlword>профсоюз</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="otvet.mail.ru"/>
+<doccount>5</doccount>
+<relevance priority="all"/>
+<doc id="ZD7FA11FB528EE433">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667271552&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//otvet.mail.ru/question/73733404&amp;l10n=ru&amp;mime=html&amp;sign=06ddadde65c9a851f38938f8cdc444f4&amp;keyno=0</saved-copy-url>
+<url>https://otvet.mail.ru/question/73733404</url>
+<domain>otvet.mail.ru</domain>
+<title>Ответы Mail.ru: в чем разница между профкомом и <hlword>профсоюзом</hlword>?</title>
+<modtime>20121009T223547</modtime>
+<size>1070</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>профком - это не руководство <hlword>профсоюза</hlword>. Это местная первичная организация отраслевого <hlword>профсоюза</hlword> на конкретном предприятии соответствующей отрасли.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="realnoevremya.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z7458F131630FFF15">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667506688&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//realnoevremya.ru/articles/175603-pochemu-bespomoschny-profsoyuzy-v-rossii&amp;l10n=ru&amp;mime=html&amp;sign=317af6f087fb16f658c67ccbe96c869e&amp;keyno=0</saved-copy-url>
+<url>https://realnoevremya.ru/articles/175603-pochemu-bespomoschny-profsoyuzy-v-rossii</url>
+<domain>realnoevremya.ru</domain>
+<title>Почему беспомощны <hlword>профсоюзы</hlword> в России? — Реальное время</title>
+<modtime>20200524T070139</modtime>
+<size>4880</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Обладают ли современные <hlword>профсоюзы</hlword> каким-либо влиянием?</passage>
+<passage>И для третьей категории, которые не были никак идеологизированы, существовал контроль через <hlword>профсоюз</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="unionsrussia.ru"/>
+<doccount>7</doccount>
+<relevance priority="all"/>
+<doc id="Z55DCF66976B2CFDD">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534080&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//unionsrussia.ru/&amp;l10n=ru&amp;mime=html&amp;sign=60eafc2b76e415c7cc12a041d92d38fe&amp;keyno=0</saved-copy-url>
+<url>https://unionsrussia.ru/</url>
+<domain>unionsrussia.ru</domain>
+<title>Союз <hlword>Профсоюзов</hlword> России | Официальный сайт.</title>
+<modtime>20110330T124553</modtime>
+<size>1407</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Из чего следует, что <hlword>профсоюзы</hlword> не могут быть вне политики, в противном случае такие <hlword>профсоюзы</hlword> не могут выполнять функцию по представительству и защите социально-трудовых...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="iz.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="ZD1BBC24041F01B58">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667320576&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//iz.ru/tag/profsoiuz&amp;l10n=ru&amp;mime=html&amp;sign=2addbde17f91575ef60b030f0e7cb611&amp;keyno=0</saved-copy-url>
+<url>https://iz.ru/tag/profsoiuz</url>
+<domain>iz.ru</domain>
+<title><hlword>Профсоюзы</hlword> — последние и свежие новости сегодня и за 2022 год...</title>
+<modtime>20180321T125017</modtime>
+<size>1748</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> сегодня — Работники университетов Британии проведут забастовку из-за низких зарплат.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="zdrav-nnov.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z31B226CCDB71B5E3">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667158912&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//zdrav-nnov.ru/kadry/sotsialnoe-partnerstvo/&amp;l10n=ru&amp;mime=html&amp;sign=732819edb9a12907d5e9e9f1e9288eac&amp;keyno=0</saved-copy-url>
+<url>https://zdrav-nnov.ru/kadry/sotsialnoe-partnerstvo/</url>
+<domain>zdrav-nnov.ru</domain>
+<title>Социальное партнерство</title>
+<modtime>20180321T165706</modtime>
+<size>1909</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Информационные бюллетени, формат А-2 «<hlword>Профсоюз</hlword> в действии» - 800 экземпляров 3-5 в год. Календари, формат А-4, 8 тыс. экземпляров, перекидной календарь – 250 экз.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="vestnikburi.com"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z340A82F1B9968089">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667473024&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//vestnikburi.com/profsoyuzy-v-rossii-biznes-ili-dvizhenie/&amp;l10n=ru&amp;mime=html&amp;sign=3f4038cf8a498d28553a31c84f9dbeb1&amp;keyno=0</saved-copy-url>
+<url>https://vestnikburi.com/profsoyuzy-v-rossii-biznes-ili-dvizhenie/</url>
+<domain>vestnikburi.com</domain>
+<title><hlword>Профсоюзы</hlword> в России: бизнес или движение? | Вестник бури...</title>
+<modtime>20191001T223558</modtime>
+<size>5274</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Для привлечения новых членов <hlword>профсоюза</hlword> используются разные «акции», «подарки», «программы лояльности», “праздники”, мало чем отличающиеся от практики торговых сетей. .</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rosprofprom.ru"/>
+<doccount>60</doccount>
+<relevance priority="all"/>
+<doc id="Z56AEDAD20FA8E933">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667489024&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//rosprofprom.ru/category/%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7%25D0%25BD%25D1%258B%25D0%25B5-%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25BE%25D1%2581%25D1%2582%25D0%25B8/&amp;l10n=ru&amp;mime=html&amp;sign=00513e635b0aef0170c9267929417a37&amp;keyno=0</saved-copy-url>
+<url>https://rosprofprom.ru/category/%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D1%8B%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</url>
+<domain>rosprofprom.ru</domain>
+<title>Новости <hlword>профсоюза</hlword> — Российский <hlword>профсоюз</hlword> работников...</title>
+<modtime>20181004T152213</modtime>
+<size>1613</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>От имени Российского <hlword>профсоюза</hlword> работников промышленности поздравляю руководство, коллективы предприятий и организаций, членов <hlword>профсоюза</hlword>, ветеранов с Днём...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="wiktionary.org"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="ZD16A8A2A6E55717A">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666358400&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//ru.wiktionary.org/wiki/%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7&amp;l10n=ru&amp;mime=html&amp;sign=65d9ef374733993c9ce4659e0e1356a2&amp;keyno=0</saved-copy-url>
+<url>https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7</url>
+<domain>ru.wiktionary.org</domain>
+<title><hlword>профсоюз</hlword> — Викисловарь</title>
+<headline>Перейти к поиску Русский. проф-со-юз. 1. профессиональный союз, объединение людей, связанных по профессии, по характеру деятельности.</headline>
+<modtime>20170428T030000</modtime>
+<size>945</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fpok.ru"/>
+<doccount>6</doccount>
+<relevance priority="all"/>
+<doc id="Z45D607A629660D69">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667289984&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//fpok.ru/join-union/what-is-a-union/&amp;l10n=ru&amp;mime=html&amp;sign=0cab482653a50dd048f730eeb19c302b&amp;keyno=0</saved-copy-url>
+<url>https://fpok.ru/join-union/what-is-a-union/</url>
+<domain>fpok.ru</domain>
+<title>Что такое <hlword>профсоюз</hlword> — Федерация профсоюзных организаций...</title>
+<modtime>20210331T134341</modtime>
+<size>3187</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> —. объединение граждан с целью защиты их прав и интересов, улучшений условий труда и его оплаты, поиска новых путей для повышения качества жизни и обеспечения...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="buhvopros.com"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z58AB6C72879B945D">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1666952832&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//buhvopros.com/profsoyuz/&amp;l10n=ru&amp;mime=html&amp;sign=67dfa962745d719152b17a9a19f24229&amp;keyno=0</saved-copy-url>
+<url>http://buhvopros.com/profsoyuz/</url>
+<domain>buhvopros.com</domain>
+<title>Что такое <hlword>профсоюз</hlword> и зачем он нужен: способы вступления...</title>
+<modtime>20180730T120855</modtime>
+<size>11689</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>6 Что может сделать для меня <hlword>профсоюз</hlword>? 7 Зачем нужен <hlword>профсоюз</hlword>, что можно получить от <hlword>профсоюза</hlword>: что даёт членство работнику предприятия?</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="zaochnik.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z93F8373C8262C8F4">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667450368&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//Zaochnik.ru/blog/studencheskij-profsojuz-chto-eto-takoe-i-zachem-on-nuzhen/&amp;l10n=ru&amp;mime=html&amp;sign=800ba9316cefcf0f84cb60c583c89200&amp;keyno=0</saved-copy-url>
+<url>https://Zaochnik.ru/blog/studencheskij-profsojuz-chto-eto-takoe-i-zachem-on-nuzhen/</url>
+<domain>Zaochnik.ru</domain>
+<title>Студенческий <hlword>профсоюз</hlword>: что это такое и зачем он нужен?</title>
+<modtime>20191013T121045</modtime>
+<size>1745</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Студенческий <hlword>профсоюз</hlword> – общественная организация студентов. Цель студенческого <hlword>профсоюза</hlword> – защита и представительство интересов и прав его участников.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="delatdelo.com"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="ZC5AF5C22DE07DDA7">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667369600&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//delatdelo.com/organizaciya-biznesa/profsoyuznyj-komitet.html&amp;l10n=ru&amp;mime=html&amp;sign=a57de5ae850666a31ee56fcb24f20bba&amp;keyno=0</saved-copy-url>
+<url>https://delatdelo.com/organizaciya-biznesa/profsoyuznyj-komitet.html</url>
+<domain>delatdelo.com</domain>
+<title>Профсоюзный комитет – что это такое | ДелатьДело</title>
+<modtime>20180619T210207</modtime>
+<size>3249</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Профсоюзный комитет – содержание, отличия от <hlword>профсоюза</hlword>.</passage>
+<passage>Обратите внимание — именно в границах влияния и заключается основное отличие между комитетом и <hlword>профсоюзом</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="ras.ru"/>
+<doccount>7</doccount>
+<relevance priority="all"/>
+<doc id="ZE03B225C869AFF3A">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667369472&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//new.ras.ru/nauchnoe-soobshestvo/profras/obshchaya-informatsiya/ustav/glava-04-chleny-profsoyuza-ikh-prava-i-obyazannosti/&amp;l10n=ru&amp;mime=html&amp;sign=294d5148e7caf51a6c61bbc7e0ea9770&amp;keyno=0</saved-copy-url>
+<url>https://new.ras.ru/nauchnoe-soobshestvo/profras/obshchaya-informatsiya/ustav/glava-04-chleny-profsoyuza-ikh-prava-i-obyazannosti/</url>
+<domain>new.ras.ru</domain>
+<title>Глава 04. Члены <hlword>профсоюза</hlword>, их права и обязанности</title>
+<modtime>20220805T150720</modtime>
+<size>2575</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Члены <hlword>Профсоюза</hlword> соблюдают настоящий Устав, платят профсоюзные взносы и состоят на учёте в Организациях <hlword>Профсоюза</hlword>.</passage>
+<passage>3. Члены <hlword>Профсоюза</hlword> имеют равные права и обязанности.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="vyuchit.work"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z04F3006B5E559612">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667417856&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//vyuchit.work/samorazvitie/obschestvo/profkom/profkom-interesy.html&amp;l10n=ru&amp;mime=html&amp;sign=462205ae966faa0ce1199e7f4ab4c1d6&amp;keyno=0</saved-copy-url>
+<url>https://vyuchit.work/samorazvitie/obschestvo/profkom/profkom-interesy.html</url>
+<domain>vyuchit.work</domain>
+<title>Профком: суть работы - интересы участников организации</title>
+<modtime>20180513T100000</modtime>
+<size>2783</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Но не спешите отказываться от навязанной вам деятельности. Сначала оцените все преимущества, которые вы можете получить в составе <hlword>профсоюза</hlword> студентов.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="xn----7sbbaar5acc1ard1a0beh.xn--p1ai"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z6592AA88D93C7555">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667210496&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//xn----7sbbaar5acc1ard1a0beh.xn--p1ai/studencheskij-profsoyuz&amp;l10n=ru&amp;mime=html&amp;sign=e89a071e7ba760b875254bec3a2d298c&amp;keyno=0</saved-copy-url>
+<url>https://xn----7sbbaar5acc1ard1a0beh.xn--p1ai/studencheskij-profsoyuz</url>
+<domain>xn----7sbbaar5acc1ard1a0beh.xn--p1ai</domain>
+<title>Студенческий <hlword>профсоюз</hlword> что это, зачем нужен, что дает</title>
+<modtime>20201101T081316</modtime>
+<size>2467</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Узнайте что такое студенческий <hlword>профсоюз</hlword>. В этой статье мы расскажем, чем отличается <hlword>профсоюз</hlword> от профкома. Как вступить в <hlword>профсоюз</hlword> и какие привилегии можно получить.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="medrabotnik.org"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z7F63BF1D0B9F93BF">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667511424&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//medrabotnik.org/&amp;l10n=ru&amp;mime=html&amp;sign=36c8589821132e4da0757317cc78d072&amp;keyno=0</saved-copy-url>
+<url>https://medrabotnik.org/</url>
+<domain>medrabotnik.org</domain>
+<title>О <hlword>профсоюзе</hlword> - <hlword>Профсоюз</hlword> &quot;Действие&quot;</title>
+<modtime>20141028T113416</modtime>
+<size>2192</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Весной 2015 г. в Москве члены <hlword>профсоюза</hlword> «Действие» — врачи 6 столичных поликлиник — повторили опыт «итальянской забастовки» своих ижевских коллег.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profcards.ru"/>
+<doccount>6</doccount>
+<relevance priority="all"/>
+<doc id="Z0B48BDB65F46D1C4">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667531648&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//profcards.ru/&amp;l10n=ru&amp;mime=html&amp;sign=03b2c88130cb0b242fe7af9dee40d7db&amp;keyno=0</saved-copy-url>
+<url>https://profcards.ru/</url>
+<domain>profcards.ru</domain>
+<title>Федеральная бонусная программа Общероссийского <hlword>Профсоюза</hlword>...</title>
+<modtime>20141015T002604</modtime>
+<size>387</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>На нашем сайте можно ознакомиться с Федеральной бонусной программой Общероссийского <hlword>Профсоюза</hlword> образования! Звоните нам 8 (800) 600-84-00.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="pimunn.ru"/>
+<doccount>1</doccount>
+<relevance priority="all"/>
+<doc id="Z5FD40BF7178E035C">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667353856&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//pimunn.ru/studentu/profs&amp;l10n=ru&amp;mime=html&amp;sign=63c66c2d2a4e8a1cc5080368c0aad09b&amp;keyno=0</saved-copy-url>
+<url>https://pimunn.ru/studentu/profs</url>
+<domain>pimunn.ru</domain>
+<title><hlword>Профсоюз</hlword> обучающихся</title>
+<modtime>20180930T230628</modtime>
+<size>2900</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> создается в целях защиты профессиональных, трудовых социально-экономических прав и интересов членов <hlword>Профсоюза</hlword>, способствует созданию благоприятных условий для...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="sotsprof.org"/>
+<doccount>9</doccount>
+<relevance priority="all"/>
+<doc id="ZDA77E8104503685F">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534976&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//sotsprof.org/&amp;l10n=ru&amp;mime=html&amp;sign=db57b0b84503d4695371e35b83993faa&amp;keyno=0</saved-copy-url>
+<url>https://sotsprof.org/</url>
+<domain>sotsprof.org</domain>
+<title>Профсоюзное объединение «СОЦПРОФ»</title>
+<modtime>20090226T210959</modtime>
+<size>1393</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюзы</hlword> СОЦПРОФ соболезнует по поводу кончины Председателя ТО профсоюзных организаций Объединения СОЦПРОФ Красноярского края, Мошинца Александра Ивановича.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profatom.ru"/>
+<doccount>10</doccount>
+<relevance priority="all"/>
+<doc id="ZF3770A4BD5D71461">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667533824&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//profatom.ru/&amp;l10n=ru&amp;mime=html&amp;sign=e997cdeea4af2c2cf1ce6ddfd130507d&amp;keyno=0</saved-copy-url>
+<url>https://profatom.ru/</url>
+<domain>profatom.ru</domain>
+<title>Российский <hlword>профсоюз</hlword> работников атомной энергетики...</title>
+<modtime>20140901T195549</modtime>
+<size>1742</size>
+<charset>windows-1251</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Стороны <hlword>Профсоюза</hlword> и Работодателя ведут обсуждения разделов в рамках рабочих групп Отраслевой комиссии по регулированию социально-трудовых отношений.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="psvsrf.ru"/>
+<doccount>18</doccount>
+<relevance priority="all"/>
+<doc id="Z7A7DADEF25A34F78">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534336&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//psvsrf.ru/&amp;l10n=ru&amp;mime=html&amp;sign=7197bd9d3a4a8a05eb764efa514aa9de&amp;keyno=0</saved-copy-url>
+<url>https://psvsrf.ru/</url>
+<domain>psvsrf.ru</domain>
+<title><hlword>Профсоюз</hlword> ВС России</title>
+<modtime>20110826T112921</modtime>
+<size>1207</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> гражданского персонала Вооруженных Сил Российской Федерации.</passage>
+<passage>Калининградская ООПО БФ <hlword>Профсоюза</hlword> ВС России. Камчатский <hlword>профсоюз</hlword> ГП ВС России.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="prgu.ru"/>
+<doccount>17</doccount>
+<relevance priority="all"/>
+<doc id="Z3627B3326D87C79A">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534208&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//prgu.ru/&amp;l10n=ru&amp;mime=html&amp;sign=a590a5c83dde68a61d8a9d5c5896ab0c&amp;keyno=0</saved-copy-url>
+<url>http://prgu.ru/</url>
+<domain>prgu.ru</domain>
+<title>Общероссийский <hlword>профсоюз</hlword> работников государственных...</title>
+<modtime>20110323T104950</modtime>
+<size>1170</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Вологодская областная организация Общероссийского <hlword>профсоюза</hlword> работников госучреждений и общественного обслуживания РФ приняла участие во Всероссийской акции <hlword>профсоюзов</hlword> «За...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="nofp.net"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="ZAE5D9D8F8BF946A0">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667533312&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//nofp.net/&amp;l10n=ru&amp;mime=html&amp;sign=144355a3db44af0c935289b06939f732&amp;keyno=0</saved-copy-url>
+<url>https://nofp.net/</url>
+<domain>nofp.net</domain>
+<title>Новгородская областная Федерация <hlword>профсоюзов</hlword> — Сайт...</title>
+<modtime>20110213T094726</modtime>
+<size>1261</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword> образования Новгородской области добился индексации выплат размера выплат за коммунальные услуги педагогам сельской местности Новгородская областная организация...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profsouzbars.com"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z587510E68E3BFDE3">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667518720&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//profsouzbars.com/&amp;l10n=ru&amp;mime=html&amp;sign=74c12272f551dfb3d28d5e2e51c779fe&amp;keyno=0</saved-copy-url>
+<url>https://profsouzbars.com/</url>
+<domain>profsouzbars.com</domain>
+<title><hlword>ПРОФСОЮЗ</hlword></title>
+<modtime>20200307T030000</modtime>
+<size>62</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage><hlword>Профсоюз</hlword>. контакты. барные концепции. манифест. о проекте. <hlword>ПРОФСОЮЗ</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rogwu.ru"/>
+<doccount>27</doccount>
+<relevance priority="all"/>
+<doc id="Z56DDDB49E7AD223D">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534720&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.rogwu.ru/&amp;l10n=ru&amp;mime=html&amp;sign=5b03eb0cfc175f2cb5b308665843ca23&amp;keyno=0</saved-copy-url>
+<url>https://www.rogwu.ru/</url>
+<domain>www.rogwu.ru</domain>
+<title><hlword>ПРОФСОЮЗ</hlword> СЕГОДНЯ</title>
+<modtime>20070115T030043</modtime>
+<size>4106</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>защита социально-трудовых прав и экономических интересов членов <hlword>Профсоюза</hlword>, в том числе работающих и проживающих в районах Крайнего Севера и приравненных к ним местностях.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profchelny.ru"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="Z0051CFFDD6D519FE">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534720&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.profchelny.ru/&amp;l10n=ru&amp;mime=html&amp;sign=0fb4fd53fc5799447010a0a917d92f66&amp;keyno=0</saved-copy-url>
+<url>https://www.profchelny.ru/</url>
+<domain>www.profchelny.ru</domain>
+<title>Набережно-Челнинская территориальная организация...</title>
+<modtime>20180628T030000</modtime>
+<size>1162</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Общероссийский <hlword>Профсоюз</hlword> образования объявил 2022-й Годом корпоративной культуры. В новом году будет сделан акцент на комплексной реализации всех направлений деятельности...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="przrf.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z4ACB81790FDBF98C">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534080&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//przrf.ru/&amp;l10n=ru&amp;mime=html&amp;sign=f29cdb63cfeebadb76d7797f58b43aff&amp;keyno=0</saved-copy-url>
+<url>https://przrf.ru/</url>
+<domain>przrf.ru</domain>
+<title>Главная | Аппарат <hlword>профсоюза</hlword></title>
+<modtime>20070316T100027</modtime>
+<size>1312</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>С началом 90-х годов прошлого столетия началось реформирование <hlword>профсоюзов</hlword> России, был создан российский отраслевой <hlword>Профсоюз</hlword> — <hlword>профсоюз</hlword> работников здравоохранения РСФСР.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="myprofcom.ru"/>
+<doccount>26</doccount>
+<relevance priority="all"/>
+<doc id="ZC153E55CCE29C1FA">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667533952&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//myprofcom.ru/&amp;l10n=ru&amp;mime=html&amp;sign=ec382eaa250dbadb90be937a085c379f&amp;keyno=0</saved-copy-url>
+<url>https://myprofcom.ru/</url>
+<domain>myprofcom.ru</domain>
+<title><hlword>Профсоюз</hlword> Госучреждений Добро пожаловать!</title>
+<modtime>20130731T023520</modtime>
+<size>1762</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Межрегиональная (территориальная) Санкт -Петербурга и Ленинградской области организация <hlword>Профсоюза</hlword> работников государственных учреждений и общественного обслуживания...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="oblsovprof.ru"/>
+<doccount>7</doccount>
+<relevance priority="all"/>
+<doc id="ZCDF4E1344BEB488B">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667454080&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//www.oblsovprof.ru/&amp;l10n=ru&amp;mime=html&amp;sign=2c1ce8a4f1885fac0cbd8b6379bd5f48&amp;keyno=0</saved-copy-url>
+<url>http://www.oblsovprof.ru/</url>
+<domain>www.oblsovprof.ru</domain>
+<title>Главная | &quot;Калужский областной совет <hlword>профсоюзов</hlword>&quot;</title>
+<modtime>20111124T004827</modtime>
+<size>931</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Территориальный Союз организаций <hlword>профсоюзов</hlword> «Калужский областной совет <hlword>профсоюзов</hlword>» был создан 25 октября 1948 года постановлением Калужской межсоюзной конференции...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="proftat.ru"/>
+<doccount>9</doccount>
+<relevance priority="all"/>
+<doc id="Z6D7FA58F0BC20916">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534592&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//proftat.ru/&amp;l10n=ru&amp;mime=html&amp;sign=250f81cbcf87e9e792d7d594b6f8d4df&amp;keyno=0</saved-copy-url>
+<url>https://proftat.ru/</url>
+<domain>proftat.ru</domain>
+<title>Главная | Федерация <hlword>профсоюзов</hlword> Республики Татарстан</title>
+<modtime>20070625T233032</modtime>
+<size>2596</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>В систему санаторно-курортного комплекса <hlword>профсоюзов</hlword> Республики Татарстан входят лечебно-профилактические частные учреждения <hlword>профсоюзов</hlword> санатории «Шифалы су (целебная вода)...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="chelprof.ru"/>
+<doccount>9</doccount>
+<relevance priority="all"/>
+<doc id="Z3762322ECCDAE161">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667531264&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//chelprof.ru/&amp;l10n=ru&amp;mime=html&amp;sign=61498d6a5a903043492d459474483b75&amp;keyno=0</saved-copy-url>
+<url>https://chelprof.ru/</url>
+<domain>chelprof.ru</domain>
+<title>Главная - Федерация <hlword>профсоюзов</hlword> Челябинской области</title>
+<modtime>20130731T043457</modtime>
+<size>1119</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Мероприятие состоялось накануне Дня <hlword>профсоюзов</hlword>.</passage>
+<passage>к Региональному соглашению между <hlword>профсоюзами</hlword>, работодателями и правительством Челябинской области на 2018-2020 годы.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fporen.ru"/>
+<doccount>7</doccount>
+<relevance priority="all"/>
+<doc id="Z2660584F67EAB901">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534208&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//fporen.ru/&amp;l10n=ru&amp;mime=html&amp;sign=62e8bc1d3233f64ce5cf7b488936016e&amp;keyno=0</saved-copy-url>
+<url>http://fporen.ru/</url>
+<domain>fporen.ru</domain>
+<title>ФПО — Федерация <hlword>Профсоюзов</hlword> Оренбуржья</title>
+<modtime>20100303T030001</modtime>
+<size>866</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Учебный центр <hlword>профсоюзов</hlword>. Академия труда и социальных отношений. Федерация <hlword>профсоюзов</hlword> Оренбуржья — часть большой профсоюзной системы.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="fnpr.org"/>
+<doccount>12</doccount>
+<relevance priority="all"/>
+<doc id="ZBC1A3EDC9B8A5292">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667531776&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//new.fnpr.org/&amp;l10n=ru&amp;mime=html&amp;sign=6bb7cbe1939f1f72e65e9147024670fd&amp;keyno=0</saved-copy-url>
+<url>https://new.fnpr.org/</url>
+<domain>new.fnpr.org</domain>
+<title>Главная | Федерация <hlword>профсоюзов</hlword> Свердловской области</title>
+<modtime>20051012T232758</modtime>
+<size>1081</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Федерация <hlword>профсоюзов</hlword> Свердловской области готова предоставить Вам консультацию и иную юридическую помощь, при условии подачи заявки на вступление в <hlword>профсоюз</hlword>, которую можно...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="kpfu.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="Z4ECECDC6ED54EDB8">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667215232&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//kpfu.ru/profcom/istoriya-profsojuznogo-dvizheniya-v-rossii_378065.html&amp;l10n=ru&amp;mime=html&amp;sign=281080e1bfda5cb4382a323909df764d&amp;keyno=0</saved-copy-url>
+<url>https://kpfu.ru/profcom/istoriya-profsojuznogo-dvizheniya-v-rossii_378065.html</url>
+<domain>kpfu.ru</domain>
+<title>История Профсоюзного движения в России | <hlword>Профсоюзы</hlword></title>
+<modtime>20190929T094703</modtime>
+<size>2207</size>
+<charset>windows-1251</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Вплоть до конца ХIХ века в России создание <hlword>профсоюзов</hlword> не допускалось.</passage>
+<passage><hlword>Профсоюзы</hlword> в современной России. Процесс демонтажа СССР не мог не затронуть профсоюзное движение.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rbc.ru"/>
+<doccount>5</doccount>
+<relevance priority="all"/>
+<doc id="Z9E8912A9E8466EB3">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667250560&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//www.RBC.ru/tags/%3Ftag%3D%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D1%2581%25D0%25BE%25D1%258E%25D0%25B7&amp;l10n=ru&amp;mime=html&amp;sign=86fc9de0eee2aca1d8c21e4d2493a51d&amp;keyno=0</saved-copy-url>
+<url>https://www.RBC.ru/tags/?tag=%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7</url>
+<domain>www.RBC.ru</domain>
+<title><hlword>профсоюз</hlword> — последние новости сегодня на РБК.Ру</title>
+<modtime>20171116T190103</modtime>
+<size>2925</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>«Мосгортранс» подал в суд на <hlword>профсоюз</hlword> из-за письма Зюганову о вакцинации В «Мосгортрансе» считают порочащим деловую репутацию письмо <hlword>профсоюза</hlword> в КПРФ, в...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="star-union.ru"/>
+<doccount>4</doccount>
+<relevance priority="all"/>
+<doc id="Z4A751A5347533DD5">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667458816&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//star-union.ru/zachem-nuzhen-profsoyuz/&amp;l10n=ru&amp;mime=html&amp;sign=247ff25e6a750b5b0fbb5014b9bb05cf&amp;keyno=0</saved-copy-url>
+<url>https://star-union.ru/zachem-nuzhen-profsoyuz/</url>
+<domain>star-union.ru</domain>
+<title>Работодатель и <hlword>профсоюз</hlword>: Зачем нужен <hlword>профсоюз</hlword> и что дает...</title>
+<modtime>20130804T155225</modtime>
+<size>1779</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Для ответа на вопрос «Нужен ли <hlword>профсоюз</hlword> и для чего?» вернёмся немного назад, в наше историческое прошлое, когда 100 лет назад зародилось и началось профсоюзное движение.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="rosegrul.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="ZB079EF65DC7B48A4">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667483520&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//rosegrul.ru/opf/profsoyuznye_organizatsii/&amp;l10n=ru&amp;mime=html&amp;sign=27615befc4127f4ebb0b6b754d411df0&amp;keyno=0</saved-copy-url>
+<url>https://rosegrul.ru/opf/profsoyuznye_organizatsii/</url>
+<domain>rosegrul.ru</domain>
+<title>Профсоюзные организации на 2022 год</title>
+<modtime>20190127T214727</modtime>
+<size>1250</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>Северо-западный межрегиональный независимый <hlword>профсоюз</hlword> работников нефтеперерабатывающей промышленности.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="profrub.ru"/>
+<doccount>2</doccount>
+<relevance priority="all"/>
+<doc id="ZBF69F9C3682592E8">
+<relevance priority="all"/>
+<saved-copy-url>http://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667534080&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=http%3A//profrub.ru/&amp;l10n=ru&amp;mime=html&amp;sign=0e03a8cfc28b98c87cc070b7e87bc4ee&amp;keyno=0</saved-copy-url>
+<url>http://profrub.ru/</url>
+<domain>profrub.ru</domain>
+<title>Добро пожаловать на сайт Территориальная организация...</title>
+<modtime>20130323T163914</modtime>
+<size>1955</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>19 февраля зимняя спартакиада среди работников дошкольных образовательных учреждений г. рубцовска, членов <hlword>профсоюза</hlword>.</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<group>
+<categ attr="d" name="journal.tinkoff.ru"/>
+<doccount>3</doccount>
+<relevance priority="all"/>
+<doc id="Z628BE7FF3C9DB728">
+<relevance priority="all"/>
+<saved-copy-url>https://yandexwebcache.net/yandbtm?fmode=inject&amp;tm=1667991263&amp;tld=ru&amp;lang=ru&amp;la=1667527424&amp;text=%D0%9F%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7&amp;url=https%3A//journal.tinkoff.ru/ask/vyiti-iz-profsouza/&amp;l10n=ru&amp;mime=html&amp;sign=f9e9b6dff06a19f2e5fe58194524e3d3&amp;keyno=0</saved-copy-url>
+<url>https://journal.tinkoff.ru/ask/vyiti-iz-profsouza/</url>
+<domain>journal.tinkoff.ru</domain>
+<title>На работе меня заставили вступить в <hlword>профсоюз</hlword>: можно ли выйти...</title>
+<modtime>20200514T112514</modtime>
+<size>3017</size>
+<charset>utf-8</charset>
+<mime-type>text/html</mime-type>
+<passages>
+<passage>На работе меня добровольно-принудительно заставили стать членом <hlword>профсоюза</hlword>.</passage>
+<passage>Расскажу, какими нормами регулируется участие в <hlword>профсоюзе</hlword>, чтобы вам было проще договориться со...</passage>
+</passages>
+<properties>
+<_PassagesType>0</_PassagesType>
+<lang>ru</lang>
+</properties>
+</doc>
+</group>
+<found priority="phrase">192</found>
+<found priority="strict">192</found>
+<found priority="all">192</found>
+<found-docs priority="phrase">8291</found-docs>
+<found-docs priority="strict">8291</found-docs>
+<found-docs priority="all">8291</found-docs>
+<found-docs-human>нашёл 8 тыс. ответов</found-docs-human>
+</grouping>
+</results>
+</response>
+</yandexsearch>
